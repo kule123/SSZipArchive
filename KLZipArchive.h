@@ -1,5 +1,5 @@
 //
-//  ZipArchive.h
+//  KLZipArchive.h
 //  ZipArchive
 //
 //  Created by Serhii Mumriak on 12/1/15.
